@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Temporary files
+tmp/
+
+# Database files (if it's a local development DB)
+base.db
+
+# Environment variables (if you have a .env file)
+.env
+
+# Other sensitive files (if applicable)
+*.log
+
+# Ignore compiled files
+*.pyo
+
+# Ignore any other local configuration files
+*.sqlite3  # If you're using SQLite
